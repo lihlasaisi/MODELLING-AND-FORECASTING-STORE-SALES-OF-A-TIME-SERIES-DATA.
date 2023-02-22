@@ -41,6 +41,9 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
 
 H0: Stores with products onpromotion make more sales than stores without onpromotion products.
 
+# Conclusion
+
+Overall, based on the given metrics, the XGBRegression and lightgbm models seem to perform better than the Decision Tree model in predicting the target variable.
 
 Thank you.
 
